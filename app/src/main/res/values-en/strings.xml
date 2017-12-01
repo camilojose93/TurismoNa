@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourism Nariño</string>
+    <string name="salir">Exit</string>
+    <string name="mas">More</string>
+    <string name="ini">Home</string>
+    <string name="estadi">Places</string>
+    <string name="acerca">About</string>
+    <string name="nombre">Headquarters</string>
+    <string name="aforo">Capacity</string>
+    <string name="ubicacion">Location</string>
+    <string name="local">"Local team "</string>
+    <string name="ub1">Island of Oktyabrsky</string>
+    <string name="ub2">Central Park</string>
+    <string name="ub3">Chistopolskaya Street</string>
+    <string name="ub4">Krestovsky Island</string>
+    <string name="ub5">Gribnoy Channel</string>
+    <string name="ub6">"Olympic park "</string>
+    <string name="ub7">Isar River Basin</string>
+    <string name="ub8">Rivers Oka and Volga</string>
+    <string name="ub9">Repin Street</string>
+    <string name="ub10">Luzhniki Sports Complex</string>
+    <string name="ub11">District of Radiotsentr</string>
+    <string name="ub12">Tushino</string>
+    <string name="Nombre">Name</string>
+    <string name="Temperatura">Temperatura</string>
+    <string name="Comida_Tipica">Typical food</string>
+    <string name="alumno">Student</string>
+    <string name="inge">Systems Engineering</string>
+</resources>

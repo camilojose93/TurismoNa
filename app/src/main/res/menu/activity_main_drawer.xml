@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/ini" />
+        <item
+            android:id="@+id/nav_estadios"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/estadi" />
+        <item
+            android:id="@+id/nav_partidos"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/part" />
+
+    </group>
+
+    <item android:title="@string/mas">
+        <menu>
+            <item
+                android:id="@+id/nav_acerca"
+                android:icon="@drawable/ic_perm_device_information_black_24dp"
+                android:title="@string/acerca" />
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="@string/salir" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Turismo Nariño</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="salir">Salir</string>
+    <string name="mas">Mas</string>
+    <string name="ini">Inicio</string>
+    <string name="estadi">Lugares</string>
+    <string name="acerca">Acerca De</string>
+    <string name="nombre">Sede</string>
+    <string name="aforo">Aforo</string>
+    <string name="ubicacion">Ubicacion</string>
+    <string name="local">Equipo Local</string>
+    <string name="ub1">Isla de Oktyabrsky</string>
+    <string name="ub2">Parque Central</string>
+    <string name="ub3">Calle Chistopolskaya</string>
+    <string name="ub4">Isla de Krestovsky</string>
+    <string name="ub5">Canal de Gribnoy</string>
+    <string name="ub6">Parque Olimpico</string>
+    <string name="ub7">Cuenca del Rio Isar</string>
+    <string name="ub8">Rios Oka y Volga</string>
+    <string name="ub9">Calle Repin</string>
+    <string name="ub10">Complejo Deportivo Luzhniki</string>
+    <string name="ub11">Distrito de Radiotsentr</string>
+    <string name="ub12">Tushino</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Temperatura">Temperatura</string>
+    <string name="Comida_Tipica">Comida Tipica</string>
+    <string name="alumno">Alumno</string>
+    <string name="inge">Ingenieria de Sistemas</string>
+</resources>
